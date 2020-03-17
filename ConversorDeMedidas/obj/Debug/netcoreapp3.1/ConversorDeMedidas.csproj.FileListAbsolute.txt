@@ -1,0 +1,11 @@
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\netcoreapp3.1\ConversorDeMedidas.exe
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\netcoreapp3.1\ConversorDeMedidas.deps.json
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\netcoreapp3.1\ConversorDeMedidas.runtimeconfig.json
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\netcoreapp3.1\ConversorDeMedidas.runtimeconfig.dev.json
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\netcoreapp3.1\ConversorDeMedidas.dll
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\netcoreapp3.1\ConversorDeMedidas.pdb
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\netcoreapp3.1\ConversorDeMedidas.csprojAssemblyReference.cache
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\netcoreapp3.1\ConversorDeMedidas.AssemblyInfoInputs.cache
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\netcoreapp3.1\ConversorDeMedidas.AssemblyInfo.cs
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\netcoreapp3.1\ConversorDeMedidas.dll
+C:\Users\breno\Source\Repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\netcoreapp3.1\ConversorDeMedidas.pdb
